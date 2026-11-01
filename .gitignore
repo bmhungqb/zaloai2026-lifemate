@@ -1,0 +1,8 @@
+/data/
+/data_zaloai/
+/reports/
+/outputs/
+__pycache__/
+*.pyc
+_to_delete/
+/kaggle/outputs/
